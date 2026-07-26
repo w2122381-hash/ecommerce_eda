@@ -68,7 +68,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/w2122381-hash/ecommerce_eda
+cd ecommerce_eda
 pip install -r requirements.txt
 jupyter notebook notebooks/ecommerce_eda.ipynb
 ```
